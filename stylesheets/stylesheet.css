@@ -9,6 +9,7 @@ body {
   line-height: 1.5;
   color: #606c71; 
   background-size: cover;
+  background-position-x: 50%;
   background-position-y: 50%;
   background-image: url("https://farm3.staticflickr.com/2923/13983213653_6d08db6f33_o.jpg");
 }
